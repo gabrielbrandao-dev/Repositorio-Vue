@@ -2,11 +2,11 @@
 
   <div>
 
-    <q-row>
+    <q-row class="flex flex-center">
       <h2>{{frases.titulo}}</h2>
     </q-row>
 
-    <q-row>
+    <q-row class="flex flex-center">
       <h5>{{frases.frase}}</h5>
     </q-row>
 
